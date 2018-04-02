@@ -1,0 +1,54 @@
+REVELLI SURESH KUMAR
+Email Id: revellisureshkumar@gmail.com	
+Mobile: 9866 500 582
+
+Career Objective:
+
+To work in an innovative and challenging environment equipped with the
+state-of-art technology that enhances my skills and knowledge my
+desire and drive to succeed will be an asset, which I will contribute
+to the organization¡¯s growth and profitability.
+
+Technical:
+
+Installation, configuration, managemnet amd maintenance over the
+linux. remote Administrator of Linux server using SSH, vnc
+viewer. Configuration of NFS clients for file sharing.  Configuration
+of FTP and remote applications like ssh, scp, telnet. Daignosing,
+monitoring performance and network related issues using top and
+netstat. Adding, creating new users, groups and setup home directories
+and appropriate access restrictions to software and directories &
+files using acces modes.  Installation of printer, scanner drivers in
+windows & Linux. Installation and Configuration of Monitoring Tools
+like Nagios Knowledge in configuration of LAMP stack, DNS, DHCP,SSH,
+Router.Knowledge of Web servers (Apache). Knowledge in Package
+Installation RPM, YUM.Creation of OpenVZ containers & KVM in linux
+environment.
+
+Experience:
+Presently Working in Choice Solutions Limited as a
+Technical Support Engineer from October 14th 2015 to till date.
+Working in the client location IIIT-Hyderabad.
+
+
+Job Profile:
+
+Process:
+
+Study of all emails related to day-to-day operations Receiving
+incident/service requests over telephone/email/REDMINE(Ticketing
+Portal).  Acknowledge various incident and service requests with the
+updated status.  Response and resolve all tickets within SLA timelines
+which are assigned.  Generating reports from Redmine portal and
+sending to clients on weekly.  Attending various internal & external
+meetings and update the ongoing issues.  Documentation of technical
+issues and sharing to team as a knowledge transfer.  Logging calls
+with various hardware vendors about component failures Follow-up with
+vendors and ensure the logging case was resolved.
+
+Education:
+
+Sphoorthy College of Engineering and Technology,(JNTU-H) 2010-2014
+
+B.Tech in Computer Science & Engineering
+	 
